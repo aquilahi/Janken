@@ -1,7 +1,6 @@
 package scripts;
 
 import java.io.*;
-import scripts.*;
 
 public class Human implements Player{
 	private String name;
@@ -54,7 +53,7 @@ public class Human implements Player{
 
 	    return hand;
 			
-
+	    
 
 	}	
 }

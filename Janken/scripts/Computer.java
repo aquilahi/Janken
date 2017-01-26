@@ -1,5 +1,4 @@
 package scripts;
-import scripts.*;
 
 public class Computer implements Player{
 

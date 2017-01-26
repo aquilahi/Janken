@@ -1,5 +1,4 @@
 package scripts;
-import scripts.*;
 
 enum Hand{
 	ROCK("Rock"),

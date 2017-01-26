@@ -1,5 +1,4 @@
 package scripts;
-import scripts.*;
 
 public class Game{
 	/*the method to execute Janken Game*/
